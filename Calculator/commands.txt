@@ -1,0 +1,5 @@
+npm init
+npm install express
+npm install -g nodemon
+nodemon calculator.js
+npm install body-parser
